@@ -65,6 +65,7 @@ elif 'RSNUMBER' in first_line:
 else:
     sys.exit('SNP column in sum stats file not found!')
 print 'The s_index is: ', s_index
+
 #find the p-val/chi.sq column
 if 'Pval' in first_line:
     p_index = first_line.index('Pval')
@@ -122,6 +123,7 @@ elif 'CHISQ' in first_line:
 else:
     sys.exit('P-value/chi.sq column in sum stats file not found!')
 print 'The p_index is: ', p_index
+
 for line in sum_stats:
     try:
         sum_stats_dict[line.split()[s_index]] = line.split()[p_index] # parse p-val
