@@ -17,9 +17,21 @@ There are six arguments:
 
  (iv) cM window for LD score [here 1]
  
-  (v) whether original Bulik-Sullivan LD scores should be calculated (added for comparison purposes) [here True]
+  (v) r-squared threshold for LD pruning withing the window (here 0.2)
+ 
+  (vi) whether original Bulik-Sullivan LD scores should be calculated (added for comparison purposes) [here True]
   
   
 B. Data merging
 
-Write something
+The code is run with this command (example):
+
+python merger.py scores_0.01_CEU_TSI_IBS_GBR_20pcs_1.0cM_0.2_minr2.txt GIANT_Yang2012Nature_publicrelease_HapMapCeuFreq_BMI.txt outfile.txt
+
+There are three arguments:
+
+  (i) The LD and PC scores from a previous run [here scores_0.01_CEU_TSI_IBS_GBR_20pcs_1.0cM_0.2_minr2.txt]
+  
+ (ii) 1000GP population string (population strings connected with underscores) [here CEU_FIN_TSI_IBS_GBR]
+ 
+(iii) Number of PC's (k) for PC score. Note to self: it will be more useful to report the PC weights before summing them to the final PC score so that users can sum over their k of choice [here 20]
