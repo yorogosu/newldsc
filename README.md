@@ -32,6 +32,6 @@ There are three arguments:
 
   (i) The LD and PC scores from a previous run [here scores_0.01_CEU_TSI_IBS_GBR_20pcs_1.0cM_0.2_minr2.txt]
   
- (ii) 1000GP population string (population strings connected with underscores) [here CEU_FIN_TSI_IBS_GBR]
+ (ii) A file with summary statistics [here GIANT_Yang2012Nature_publicrelease_HapMapCeuFreq_BMI.txt]
  
-(iii) Number of PC's (k) for PC score. Note to self: it will be more useful to report the PC weights before summing them to the final PC score so that users can sum over their k of choice [here 20]
+(iii) An output filename of free choice [here outfile.txt]
