@@ -1,5 +1,7 @@
 # newldsc
-LD score estimates without long-range LD
+This repository contains code for LD score estimates *without long-range LD* & pc scores (unbiased_ld_and_pc_scores.py) and code for merging the resulting LD score files with a given set of summary statistics (merger.py).
+
+A. LD score & PC score estimates
 
 The code is run with this command (example):
 
@@ -18,3 +20,6 @@ There are six arguments:
   (v) whether original Bulik-Sullivan LD scores should be calculated (added for comparison purposes) [here True]
   
   
+B. Data merging
+
+Write something
