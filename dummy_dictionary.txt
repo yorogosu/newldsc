@@ -1,0 +1,248 @@
+Se_ALSPAC_autosomes.txt	Whole blood Selenium (ALSPAC - Australian)	European
+Cu_autosomes.txt	Erythrocyte Copper (QIMR - Australian)	European
+Zn_autosomes.txt	Erythrocyte Zinc (QIMR - Australian)	European
+Se_QIMR_autosomes.txt	Erythrocyte Selenium (QIMR - British)	European
+MA_EA_1st_stage.txt	Years of schooling (SSGAC)	European
+SSGAC_EduYears_Rietveld2013_publicrelease.txt	Years of schooling (SSGAC)	European
+AgeFirstBirth_Pooled.txt	Age of first birth (SSGAC)	European
+als.sumstats.meta.txt	Amyotrophic lateral sclerosis (Project MinE)	European
+bmi_dom_dev.txt	BMI - dominance deviation model (UK Biobank)	European
+BW3_EUR_summary_stats.txt	Birth weight (Horikoshi)	European
+CHIC_Summary_Benyamin2014.txt	Childhood IQ (SSGAC)	European
+Chronotype_SIN_BOLT.output_plus.metrics_MAF0.001_HWE1E-5_qual0.4.txt	Chronotype (UK Biobank)	European
+CKDGen-MA_meta_post.txt	Microalbuminuria (CKDGen)	European
+CKDGen-UACR_meta_post.txt	Urinary albumin-to-creatinine ratio (CKDGen)	European
+DIAGRAMv3.2012DEC17.txt	Type 2 Diabetes (diagram)	European
+DS_Full.txt	Depressive symptoms (SSGAC)	European
+EduYears_Main.txt	Years of schooling 2016 (SSGAC)	European
+EGG_BW2_DISCOVERY.txt	Child birth weight (EGG)	European
+EGG_HC_DISCOVERY.v2.txt	Infant head circumference (EGG)	European
+EGG_Obesity_Meta_Analysis_1.txt	Childhood obesity (EGG)	European
+EGG-GWAS-BL.txt	Child birth length (EGG)	European
+EUR.CD.gwas_info03_filtered.txt	Crohns disease (IIBDGC)	European
+EUR.IBD.gwas_info03_filtered.txt	Inflammatory Bowel Disease (IIBDGC)	European
+EUR.UC.gwas_info03_filtered.txt	Ulcerative colitis (IIBDGC)	European
+formatted_MA_overall_2GC_b36_MAFget005_Nget50.txt	Microalbuminuria (CKDGen)	European
+formatted_Round3_UACR_DM_2GC_b36_MAFget005_Nget50_2014_03_17.txt	Urinary albumin-to-creatinine ratio (CKDGen)	European
+formatted_Round3_UACR_noDM_2GC_b36_MAFget005_Nget50_2014_09_29.txt	Urinary albumin-to-creatinine ratio (non-diabetes) (CKDGen)	European
+formatted_round3meta_UACR_overall_IV_2GC_b36_MAFget005_Nget50_20140505.txt	Urinary albumin-to-creatinine ratio (CKDGen)	European
+gabriel_asthma_meta-analysis_36studies_format_repository_NEJM.txt	Asthma (Gabriel)	European
+gcan_meta.txt	Anorexia Nervosa (GCAN)	European
+GIANT_2015_HIP_COMBINED_EUR.txt	Hip circumference (GIANT)	European
+GIANT_2015_HIPadjBMI_COMBINED_EUR.txt	Hip circumference adjusted for BMI (GIANT)	European
+GIANT_2015_WC_COMBINED_EUR.txt	Waist circumference (GIANT)	European
+GIANT_2015_WCadjBMI_COMBINED_EUR.txt	Waist circumference adjusted for BMI (GIANT)	European
+GIANT_2015_WHR_COMBINED_EUR.txt	Waist-to-hip ratio (GIANT)	European
+GIANT_2015_WHRadjBMI_COMBINED_EUR.txt	Waist-to-hip ratio adjusted for BMI (GIANT)	European
+GIANT_BMI_Speliotes2010_publicrelease_HapMapCeuFreq.txt	Body mass index_2010 (GIANT)	European
+GIANT_EXTREME_BMI_Stage1_Berndt2013_publicrelease_HapMapCeuFreq.txt	Extreme bmi (GIANT)	European
+GIANT_EXTREME_HEIGHT_Stage1_Berndt2013_publicrelease_HapMapCeuFreq.txt	Extreme height (GIANT)	European
+GIANT_EXTREME_WHR_Stage1_Berndt2013_publicrelease_HapMapCeuFreq.txt	Extreme waist-to-hip ratio (GIANT)	European
+GIANT_HEIGHT_LangoAllen2010_publicrelease_HapMapCeuFreq.txt	Height_2010 (GIANT)	European
+GIANT_HEIGHT_Wood_et_al_2014_publicrelease_HapMapCeuFreq.txt	Height_2014 (GIANT)	European
+GIANT_OBESITY_CLASS1_Stage1_Berndt2013_publicrelease_HapMapCeuFreq.txt	Obesity class 1 (GIANT)	European
+GIANT_OBESITY_CLASS2_Stage1_Berndt2013_publicrelease_HapMapCeuFreq.txt	Obesity class 2 (GIANT)	European
+GIANT_OBESITY_CLASS3_Stage1_Berndt2013_publicrelease_HapMapCeuFreq.txt	Obesity class 3 (GIANT)	European
+GIANT_OVERWEIGHT_Stage1_Berndt2013_publicrelease_HapMapCeuFreq.txt	Overweight (GIANT)	European
+GIANT_Yang2012Nature_publicrelease_HapMapCeuFreq_BMI.txt	Body mass index_2012 (GIANT)	European
+GIANT_Yang2012Nature_publicrelease_HapMapCeuFreq_Height.txt	Height_2012 (GIANT)	European
+GPC-1.NEO-AGREEABLENESS.full.txt	Neo-agreeableness (The Genetics of Personality Consortium)	European
+GPC-1.NEO-CONSCIENTIOUSNESS.full.txt	Neo-conscientiousness (The Genetics of Personality Consortium)	European
+GPC-1.NEO-EXTRAVERSION.full.txt	Neo-extraversion (The Genetics of Personality Consortium)	European
+GPC-1.NEO-NEUROTICISM.full.txt	Neo-openness (The Genetics of Personality Consortium)	European
+GPC-1.NEO-OPENNESS.full.txt	Neo-openness to experience (The Genetics of Personality Consortium)	European
+GPC-2.EXTRAVERSION.full.txt	Extraversion (The Genetics of Personality Consortium)	European
+GPC-2.NEUROTICISM.full.txt	Neuroticism (The Genetics of Personality Consortium)	European
+GUGC_MetaAnalysis_Results_Gout.txt	Gout (GUGC)	European
+GUGC_MetaAnalysis_Results_UA.txt	Serum urate (GUGC)	European
+IGAP_stage_1.txt	Alzheimers disease (IGAP)	European
+Iron_Benyamin_NatCom_2014.txt	Serum iron (GIS)	European
+jointGwasMc_HDL.txt	HDL cholesterol (GLGC)	European
+jointGwasMc_LDL.txt	LDL cholesterol (GLGC)	European
+jointGwasMc_TC.txt	Total Cholesterol (GLGC)	European
+jointGwasMc_TG.txt	Triglycerides (GLGC)	European
+Leptin_Adjusted_for_BMI.txt	Leptin_adjBMI (Kilpelainen)	European
+Leptin_Not_Adjusted_for_BMI.txt	Leptin_not_adjBMI (Kilpelainen)	European
+Log10Ferritin_Benyamin_NatCom_2014.txt	Ferritin (GIS)	European
+MAGIC_2hrGlucose_AdjustedForBMI.txt	2hr glucose adjusted for BMI (MAGIC)	European
+MAGIC_HbA1C.txt	HbA1C (MAGIC)	European
+MAGIC_ln_fastingProinsulin.txt	Fasting proinsulin (MAGIC)	European
+MAGIC_ln_HOMA-B.txt	HOMA-B (MAGIC)	European
+MAGIC_ln_HOMA-IR.txt	HOMA-IR (MAGIC)	European
+MAGIC_Manning_et_al_FastingGlucose_MainEffect.txt	Fasting glucose main effect (MAGIC)	European
+MAGIC_Manning_et_al_lnFastingInsulin_MainEffect.txt	Fasting insulin main effect (MAGIC)	European
+Menarche_Nature2014_GWASMetaResults_17122014.txt	Age at Menarche (ReproGen)	European
+Menopause_HapMap2_DayNG2015_18112015.txt	Age at Menopause (ReproGen)	European
+Neuroticism_Full.txt	Neuroticism (SSGAC)	European
+NumberChildrenEverBorn_Pooled.txt	Number of children ever born (SSGAC)	European
+PASS_Lupus.txt	Systemic lupus erythematosus (Price)	European
+PASS_Primary_biliary_cirrhosis.txt	Primary biliary cirrhosis (Price)	European
+pgc.adhd.full.2012-10.txt	Attention deficit hyperactivity disorder (PGC)	European
+pgc.bip.full.2012-04.txt	Bipolar disorder (PGC)	European
+pgc.mdd.full.2012-04.txt	Major depressive disorder (PGC)	European
+pgc.scz.full.2012-04.txt	Schizophrenia (PGC)	European
+pgcasdeuro.txt	Autism spectrum disorder (PGC)	European
+phs000089.pha002868_parkinson.txt	Parkinsons disease (dbGAP)	European
+Pubertal_growth_10F_12M_combined.txt	Height; Females at age 10 and males at age 12 (EGG)	European
+Pubertal_growth_PGF_PGM_combined.txt	Difference in height between childhood and adulthood; age 8 (EGG)	European
+Pubertal_growth_PTF_PTM_combined.txt	Difference in height between adolescence and adulthood; age 14 (EGG)	European
+RA_GWASmeta_European_v2.txt	Rheumatoid Arthritis (Okada)	European
+results.UKBiobank_9millionSNPs.parents_lifespan.Pilling_et_al_2016_Aging_father_age_death.txt	Fathers age at death (UK Biobank)	European
+results.UKBiobank_9millionSNPs.parents_lifespan.Pilling_et_al_2016_Aging_mother_age_death.txt	Mothers age at death (UK Biobank)	European
+results.UKBiobank_9millionSNPs.parents_lifespan.Pilling_et_al_2016_Aging_parents_age_death.txt	Parents age at death (UK Biobank)	European
+results.UKBiobank_9millionSNPs.parents_lifespan.Pilling_et_al_2016_Aging_top_1_percent.txt	Longevity (top 1% survival) (UK Biobank)	European
+Saturation_Benyamin_NatCom_2014.txt	Transferrin saturation (GIS)	European
+SHR.INVNORMAL.EuropeanAncestry.Stage1.RELEASE.ROUNDED.txt	Sitting height ratio (Chan)	European
+Sleep_Duration_SIN_BOLT.output_plus.metrics_MAF0.001_HWE1E-5_qual0.4.txt	Sleep duration (UK Biobank)	European
+SSGAC_College_Rietveld2013_publicrelease.txt	College completion (SSGAC)	European
+SWB_Full.txt	Subjective well being (SSGAC)	European
+t2d_dom_dev.txt	Type 2 diabetes - dominance deviation model (UK Biobank)	European
+Transferrin_Benyamin_NatCom_2014.txt	Transferrin (GIS)	European
+Wood_et_al_2017_AIR_adj_BMI+SI.txt	Acute insulin response (Wood)	European
+Wood_et_al_2017_DI_adj_BMI.txt	Disposition index (Wood)	European
+Wood_et_al_2017_ISR_adj_BMI.txt	Insulin secretion rate (Wood)	European
+Wood_et_al_2017_PEAK_adj_BMI+SI.txt	Peak insulin response (wood)	European
+scz.swe.pgc1.2013-06.txt	Schizophrenia (PGC only Swedish samples)	European
+Summary_statistics_MAGNETIC_AcAce.txt	Acetoacetate	MAGNETIC
+Summary_statistics_MAGNETIC_Ace.txt	Acetate	MAGNETIC
+Summary_statistics_MAGNETIC_Ala.txt	Alanine	MAGNETIC
+Summary_statistics_MAGNETIC_Alb.txt	Albumin	MAGNETIC
+Summary_statistics_MAGNETIC_ApoA1.txt	Apolipoprotein A-I	MAGNETIC
+Summary_statistics_MAGNETIC_ApoB.txt	Apolipoprotein B	MAGNETIC
+Summary_statistics_MAGNETIC_Bis.DB.ratio.txt	Ratio of bisallylic groups to double bonds	MAGNETIC
+Summary_statistics_MAGNETIC_Bis.FA.ratio.txt	Ratio of bisallylic groups to total fatty acids	MAGNETIC
+Summary_statistics_MAGNETIC_bOHBut.txt	3Lhydroxybutyrate	MAGNETIC
+Summary_statistics_MAGNETIC_CH2.DB.ratio.txt	Average number of methylene groups per a double bond	MAGNETIC
+Summary_statistics_MAGNETIC_CH2.in.FA.txt	CH2 groups in fatty acids	MAGNETIC
+Summary_statistics_MAGNETIC_Cit.txt	Citrate	MAGNETIC
+Summary_statistics_MAGNETIC_Crea.txt	Creatinine	MAGNETIC
+Summary_statistics_MAGNETIC_DB.in.FA.txt	Average number of double bonds in a fatty acid chain	MAGNETIC
+Summary_statistics_MAGNETIC_DHA.txt	22:6 docosahexaenoic acid	MAGNETIC
+Summary_statistics_MAGNETIC_Est.C.txt	Free cholesterol to esterified cholesterol ratio	MAGNETIC
+Summary_statistics_MAGNETIC_FALen.txt	Description of average fatty acid chain length; not actual carbon number	MAGNETIC
+Summary_statistics_MAGNETIC_FAw3.txt	Omega-3 fatty acids	MAGNETIC
+Summary_statistics_MAGNETIC_FAw6.txt	Omega-6 fatty acids	MAGNETIC
+Summary_statistics_MAGNETIC_FAw79S.txt	Omega-9 and saturated fatty acids	MAGNETIC
+Summary_statistics_MAGNETIC_Free.C.txt	Free cholesterol	MAGNETIC
+Summary_statistics_MAGNETIC_Glc.txt	Glucose	MAGNETIC
+Summary_statistics_MAGNETIC_Gln.txt	Glutamine	MAGNETIC
+Summary_statistics_MAGNETIC_Glol.txt	Glycerol	MAGNETIC
+Summary_statistics_MAGNETIC_Gly.txt	Glycine	MAGNETIC
+Summary_statistics_MAGNETIC_Gp.txt	Glycoprotein acetyls; mainly a1-acid glycoprotein	MAGNETIC
+Summary_statistics_MAGNETIC_HDL.C.txt	Total cholesterol in HDL	MAGNETIC
+Summary_statistics_MAGNETIC_HDL.D.txt	Mean diameter for HDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_His.txt	Histidine	MAGNETIC
+Summary_statistics_MAGNETIC_IDL.C.txt	Total cholesterol in IDL	MAGNETIC
+Summary_statistics_MAGNETIC_IDL.FC.txt	Free cholesterol in IDL	MAGNETIC
+Summary_statistics_MAGNETIC_IDL.L.txt	Total lipids in IDL	MAGNETIC
+Summary_statistics_MAGNETIC_IDL.P.txt	Concentration of IDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_IDL.PL.txt	Phospholipids in IDL	MAGNETIC
+Summary_statistics_MAGNETIC_IDL.TG.txt	Triglycerides in IDL	MAGNETIC
+Summary_statistics_MAGNETIC_Ile.txt	Isoleucine	MAGNETIC
+Summary_statistics_MAGNETIC_L.HDL.C.txt	Total cholesterol in large HDL	MAGNETIC
+Summary_statistics_MAGNETIC_L.HDL.CE.txt	Cholesterol esters in large HDL	MAGNETIC
+Summary_statistics_MAGNETIC_L.HDL.FC.txt	Free cholesterol in large HDL	MAGNETIC
+Summary_statistics_MAGNETIC_L.HDL.L.txt	Total lipids in large HDL	MAGNETIC
+Summary_statistics_MAGNETIC_L.HDL.P.txt	Concentration of large HDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_L.HDL.PL.txt	Phospholipids in large HDL	MAGNETIC
+Summary_statistics_MAGNETIC_L.LDL.C.txt	Total cholesterol in large LDL	MAGNETIC
+Summary_statistics_MAGNETIC_L.LDL.CE.txt	Cholesterol esters in large LDL	MAGNETIC
+Summary_statistics_MAGNETIC_L.LDL.FC.txt	Free cholesterol in large LDL	MAGNETIC
+Summary_statistics_MAGNETIC_L.LDL.L.txt	Total lipids in large LDL	MAGNETIC
+Summary_statistics_MAGNETIC_L.LDL.P.txt	Concentration of large LDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_L.LDL.PL.txt	Phospholipids in large LDL	MAGNETIC
+Summary_statistics_MAGNETIC_L.VLDL.C.txt	Total cholesterol in large VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_L.VLDL.CE.txt	Cholesterol esters in large VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_L.VLDL.FC.txt	Free cholesterol in large VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_L.VLDL.L.txt	Total lipids in large VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_L.VLDL.P.txt	Concentration of large VLDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_L.VLDL.PL.txt	Phospholipids in large VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_L.VLDL.TG.txt	Triglycerides in large VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_LA.txt	18:2 linoleic acid	MAGNETIC
+Summary_statistics_MAGNETIC_Lac.txt	Lactate	MAGNETIC
+Summary_statistics_MAGNETIC_LDL.C.txt	Total cholesterol in LDL	MAGNETIC
+Summary_statistics_MAGNETIC_LDL.D.txt	Mean diameter for LDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_Leu.txt	Leucine	MAGNETIC
+Summary_statistics_MAGNETIC_M.HDL.C.txt	Total cholesterol in medium HDL	MAGNETIC
+Summary_statistics_MAGNETIC_M.HDL.CE.txt	Cholesterol esters in medium HDL	MAGNETIC
+Summary_statistics_MAGNETIC_M.HDL.FC.txt	Free cholesterol in medium HDL	MAGNETIC
+Summary_statistics_MAGNETIC_M.HDL.L.txt	Total lipids in medium HDL	MAGNETIC
+Summary_statistics_MAGNETIC_M.HDL.P.txt	Concentration of medium HDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_M.HDL.PL.txt	Phospholipids in medium HDL	MAGNETIC
+Summary_statistics_MAGNETIC_M.LDL.C.txt	Total cholesterol in medium LDL	MAGNETIC
+Summary_statistics_MAGNETIC_M.LDL.CE.txt	Cholesterol esters in medium LDL	MAGNETIC
+Summary_statistics_MAGNETIC_M.LDL.L.txt	Total lipids in medium LDL	MAGNETIC
+Summary_statistics_MAGNETIC_M.LDL.P.txt	Concentration of medium LDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_M.LDL.PL.txt	Phospholipids in medium LDL	MAGNETIC
+Summary_statistics_MAGNETIC_M.VLDL.C.txt	Total cholesterol in medium VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_M.VLDL.CE.txt	Cholesterol esters in medium VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_M.VLDL.FC.txt	Free cholesterol in medium VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_M.VLDL.L.txt	Total lipids in medium VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_M.VLDL.P.txt	Concentration of medium VLDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_M.VLDL.PL.txt	Phospholipids in medium VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_M.VLDL.TG.txt	Triglycerides in medium VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_MUFA.txt	Mono-unsaturated fatty acids	MAGNETIC
+Summary_statistics_MAGNETIC_otPUFA.txt	Other polyunsaturated fatty acids than 18:2	MAGNETIC
+Summary_statistics_MAGNETIC_PC.txt	Phosphatidylcholine and other cholines	MAGNETIC
+Summary_statistics_MAGNETIC_Phe.txt	Phenylalanine	MAGNETIC
+Summary_statistics_MAGNETIC_Pyr.txt	Pyruvate	MAGNETIC
+Summary_statistics_MAGNETIC_S.HDL.L.txt	Total lipids in small HDL	MAGNETIC
+Summary_statistics_MAGNETIC_S.HDL.P.txt	Concentration of small HDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_S.HDL.TG.txt	Triglycerides in small HDL	MAGNETIC
+Summary_statistics_MAGNETIC_S.LDL.C.txt	Total cholesterol in small LDL	MAGNETIC
+Summary_statistics_MAGNETIC_S.LDL.L.txt	Total lipids in small LDL	MAGNETIC
+Summary_statistics_MAGNETIC_S.LDL.P.txt	Concentration of small LDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_S.VLDL.C.txt	Total cholesterol in small VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_S.VLDL.FC.txt	Free cholesterol in small VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_S.VLDL.L.txt	Total lipids in small VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_S.VLDL.P.txt	Concentration of small VLDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_S.VLDL.PL.txt	Phospholipids in small VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_S.VLDL.TG.txt	Triglycerides in small VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_Serum.C.txt	Serum total cholesterol	MAGNETIC
+Summary_statistics_MAGNETIC_Serum.TG.txt	Serum total triglycerides	MAGNETIC
+Summary_statistics_MAGNETIC_SM.txt	Sphingomyelins	MAGNETIC
+Summary_statistics_MAGNETIC_Tot.FA.txt	Total fatty acids	MAGNETIC
+Summary_statistics_MAGNETIC_TotPG.txt	Total phosphoglycerides	MAGNETIC
+Summary_statistics_MAGNETIC_Tyr.txt	Tyrosine	MAGNETIC
+Summary_statistics_MAGNETIC_Urea.txt	Urea	MAGNETIC
+Summary_statistics_MAGNETIC_Val.txt	Valine	MAGNETIC
+Summary_statistics_MAGNETIC_VLDL.D.txt	Mean diameter for VLDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_XL.HDL.C.txt	Total cholesterol in very large HDL	MAGNETIC
+Summary_statistics_MAGNETIC_XL.HDL.CE.txt	Cholesterol esters in very large HDL	MAGNETIC
+Summary_statistics_MAGNETIC_XL.HDL.FC.txt	Free cholesterol in very large HDL	MAGNETIC
+Summary_statistics_MAGNETIC_XL.HDL.L.txt	Total lipids in very large HDL	MAGNETIC
+Summary_statistics_MAGNETIC_XL.HDL.P.txt	Concentration of very large HDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_XL.HDL.PL.txt	Phospholipids in very large HDL	MAGNETIC
+Summary_statistics_MAGNETIC_XL.HDL.TG.txt	Triglycerides in very large HDL	MAGNETIC
+Summary_statistics_MAGNETIC_XL.VLDL.L.txt	Total lipids in very large VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_XL.VLDL.P.txt	Concentration of very large VLDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_XL.VLDL.PL.txt	Phospholipids in very large VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_XL.VLDL.TG.txt	Triglycerides in very large VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_XS.VLDL.L.txt	Total lipids in very small VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_XS.VLDL.P.txt	Concentration of very small VLDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_XS.VLDL.PL.txt	Phospholipids in very small VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_XS.VLDL.TG.txt	Triglycerides in very small VLDL	MAGNETIC
+Summary_statistics_MAGNETIC_XXL.VLDL.L.txt	Total lipids in chylomicrons and largest VLDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_XXL.VLDL.P.txt	Concentration of chylomicrons and largest VLDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_XXL.VLDL.PL.txt	Phospholipids in chylomicrons and largest VLDL particles	MAGNETIC
+Summary_statistics_MAGNETIC_XXL.VLDL.TG.txt	Triglycerides in chylomicrons and largest VLDL particles	MAGNETIC
+adipogen.discovery.eur_.meta_.public.release.txt	Adiponectin (ADIPOGen)	Mixed
+body_fat_percentage_GWAS_PLUS_MC_ALL_ancestry_se_Sex_combined_for_locus_zoom_plot.TBL.txt	Body fat (Lu)	Mixed
+CARDIoGRAM_GWAS_RESULTS.txt	Coronary artery disease (Cardiogram)	Mixed
+CKDGen-CKD_meta_post.txt	Chronic Kidney Disease (CKDGen)	Mixed
+CKDGen-eGFRcrea_meta_post.txt	Serum creatinine (CKDGen)	Mixed
+CKDGen-eGFRcys_meta_post.txt	Serum cystatin c (CKDGen)	Mixed
+ckqny.scz2snpres.txt	Schizophrenia (PGC)	Mixed
+EAGLE_AD_GWAS_results_2015.txt	Eczema (EAGLE)	Mixed
+fa2stu.MAF0_.005.pos_.out_.txt	Forearm Bone mineral density (GEFOS)	Mixed
+fn2stu.MAF0_.005.pos_.out_.txt	Femoral neck bone mineral density (GEFOS)	Mixed
+formatted_AA_eGFRcrea_overall_2GC_b36_MAFget005_Nget50.txt	Serum creatinine overall (CKDGen)	Mixed
+formatted_round3meta_CKD_overall_IV_2GC_b36_MAFget005_Nget50_20120725_b37.txt	Chronic Kidney Disease (CKDGen)	Mixed
+formatted_round3meta_eGFRcrea_DM_IV_2GC_b36_MAFget005_Nget50_20140331.txt	Serum creatinine (CKDGen)	Mixed
+formatted_round3meta_eGFRcrea_nonDM_IV_2GC_b36_MAFget005_Nget50_20120627_b37.txt	Serum creatinine (non-diabetes) (CKDGen)	Mixed
+formatted_round3meta_eGFRcrea_overall_IV_2GC_b36_MAFget005_Nget50_20120705_b37.txt	Serum creatinine overall (CKDGen)	Mixed
+formatted_round3meta_eGFRcys_overall_IV_2GC_b36_MAFget005_Nget50_20120725_b37.txt	Serum cystatin c (CKDGen)	Mixed
+GEFOS2_FNBMD_POOLED_GC.txt	Femoral neck bone mineral density (GEFOS)	Mixed
+GEFOS2_LSBMD_POOLED_GC.txt	Lumbar spine bone mineral density (GEFOS)	Mixed
+ls2stu.MAF0_.005.pos_.out_.txt	Lumbar Spine bone mineral density (GEFOS)	Mixed
+META_STAGE1_GWASHR_SUMSTATS.txt	Heart rate (HRgene)	Mixed
