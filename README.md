@@ -1,5 +1,5 @@
 # newldsc
-This repository contains code for LD score estimates *without long-range LD* & pc scores (unbiased_ld_and_pc_scores.py) and code for merging the resulting LD score files with a given set of summary statistics (merger.py).
+This repository contains (A) code for LD score estimates *without long-range LD* & pc scores (unbiased_ld_and_pc_scores.py); (B) code for merging the resulting LD score files with a given set of summary statistics (merger.py); and (C) code for plotting LD score regression and outputting a table with intercepts (plotter.R)
 
 A. LD score & PC score estimates
 
@@ -35,3 +35,13 @@ There are three arguments:
  (ii) A file with summary statistics [here GIANT_Yang2012Nature_publicrelease_HapMapCeuFreq_BMI.txt]
  
 (iii) An output filename of free choice [here outfile.txt]
+
+C. Plotting
+
+In order to make plot titles more understandable, I created a dictionary with a phenotype description for each sum stat file (dummy_dictionary.txt). This R code is a bit rough and needs refining. It runs like this:
+
+R < plotter.R --no-save
+
+but ideally we want something like this:
+
+Rscript plotter.R args[1] args[2] args[3] etc ...
