@@ -1,5 +1,5 @@
 # newldsc
-This repository contains (A) code for LD score estimates *without long-range LD* & pc scores (unbiased_ld_and_pc_scores.py); (B) code for merging the resulting LD score files with a given set of summary statistics (merger.py); and (C) code for plotting LD score regression and outputting a table with intercepts (plotter.R)
+This repository contains (A) code for LD score estimates *without long-range LD due to structure* & pc scores (unbiased_ld_and_pc_scores.py); (B) code for merging the resulting LD score files with a given set of summary statistics (merger.py); and (C) code for plotting LD score regression and outputting a table with intercepts (plotter.R)
 
 A. LD score & PC score estimates
 
